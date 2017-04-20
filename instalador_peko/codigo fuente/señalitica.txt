@@ -1,0 +1,8 @@
+0=no seleccionado
+1=la aplicacioa se a seleccionado
+2=esperando a aque cierrre
+3=la aplicacion cerro con exito
+4=error o no instalado
+
+
+nombre_de_la_aplicacion=0

@@ -1,0 +1,12 @@
+Form2.Text1.Text = Form2.Text1.Text & rs("nombre") & vbCrLf
+Form2.Text2.Text = rs("path")
+Call Ejecutar_shell(ruta_def & Form2.Text2.Text)
+contador_de_ejecut = contador_de_ejecut + 1
+Form2.Text4.Caption = contador_de_ejecut - 1
+End If
+Next
+Form2.Text1.Text = Form2.Text1.Text & vbCrLf
+Form2.progressbar1.Width = Form2.progressbar1.Width + Form2.Label20.Caption
+
+
+

@@ -1,0 +1,15 @@
+root
+normal
+cancelar
+reanudar
+instalador
+salir
+cambiar000
+cambiar001
+fondo
+rojo
+verde
+azul
+amarillo
+todos
+ninguno
